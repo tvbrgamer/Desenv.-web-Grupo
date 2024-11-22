@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"konnect"},
+{"type":"table","name":"mostrar","database":"konnect","data":
+[
+{"ID":"1","aparece":"1"},
+{"ID":"2","aparece":"1"},
+{"ID":"3","aparece":"1"}
+]
+}
+,{"type":"table","name":"usuarios","database":"konnect","data":
+[
+{"ID":"1","email":"admin@gmail.com","senha":"admin"}
+]
+}
+]
