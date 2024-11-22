@@ -56,8 +56,8 @@ $dados = $stmt->fetchAll(PDO::FETCH_ASSOC);
             </a>
         </div>
         <div id="headerButton">
-            <a href="painel.php">
-                <div id="sobre">Painel</div>
+            <a href="logins.php">
+                <div id="sobre">Logins</div>
             </a>
         </div>
     </header>
